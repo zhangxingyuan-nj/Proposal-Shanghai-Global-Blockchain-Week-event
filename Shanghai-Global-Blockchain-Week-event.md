@@ -4,11 +4,9 @@ Proposal:
 Request to approve the budget for the Shanghai Global Blockchain Week event.
 Wallet: KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 
-
 Options:
 Option 0: No, I don’t want
 Option 1: Yes, approved the budget of 16.4 bln QUBIC @price ($2000/Bln)
-
 
 I. Background of Shanghai Global Blockchain Week
 1.Industry Status:
@@ -19,29 +17,23 @@ Over 30 founders of global TOP 50 projects have participated, including Ethereum
 Covers 90% of mainstream public chains and 80% of DeFi protocols.
 40% academic authority, including professors from top universities such as Stanford, Yale, and MIT.
 
-
 II. Value of Qubic's Participation
-
 
 1.Deep Engagement with Chinese Developers and Market, Building Technical Consensus
 Core Platform for Technical Evangelism: Showcasing Qubic’s technical advantages (e.g., low fees, high TPS, oracle network) in Shanghai provides an ideal stage to attract core developers and ecosystem builders interested in advanced Layer 1 protocols and decentralized computing power.
 Enhance Local Brand Recognition: Competing alongside renowned local projects and hosting technical workshops will quickly establish Qubic’s technical brand image and credibility in the Chinese market, laying the foundation for future ecosystem expansion.
 
-
 2.Precise Access to Asia-Pacific Capital and Industry Resources
 Attract Local Top-Tier Investment: The event will draw numerous funds, Web3-focused venture capital firms (e.g., HashKey Capital, Fosun Group-affiliated funds), and corporate venture arms of traditional tech giants interested in blockchain technology. This is a critical step for Qubic to tap into the Asian capital market.
 Explore Industry Collaboration Opportunities: The Shanghai and Yangtze River Delta regions host many enterprises (e.g., logistics, finance, manufacturing) seeking blockchain technology upgrades. Qubic can showcase its potential in RWA tokenization and supply chain finance, establishing connections with potential enterprise clients.
-
 
 3.Leverage Hong Kong’s Policy Momentum for Compliant Future Development
 Connect with Hong Kong Financial Channels: Executives from licensed Hong Kong exchanges (e.g., HashKey, OSL) will attend the Shanghai event. Qubic can proactively engage with these institutions to explore opportunities for compliant listing in Hong Kong, issuing RWA assets, or security token offerings (STOs), seizing policy advantages.
 Signal Compliance-Friendly stance: Active participation in one of China’s most influential blockchain events inherently signals Qubic’s commitment to compliance, transparency, and sustainable development to the market and policymakers, fostering long-term stable regulatory relationships.
 
-
 4.Capture the "AI+Web3" Niche and Lead Technological Integration
 Become a Decentralized Computing Power Solution Provider: At the "AI+Web3" forum, Qubic can position itself as a "decentralized AI computing infrastructure," demonstrating to AI departments of tech giants like Microsoft, Huawei, and Alibaba, as well as AI communities like Hugging Face, how it addresses pain points such as AI computing power monopolies and high costs.
 Build an Ecosystem Alliance: Collaborate with attending AI projects, data providers, and model training teams to encourage them to become users and partners of the Qubic computing network, jointly building a decentralized AI ecosystem and creating an insurmountable moat.
-
 
 III. Expected Outcomes of Qubic’s Participation
 1.Visibility and Exposure
@@ -56,7 +48,6 @@ Developer Engagement: Recruit 2+ local developer to participate in a hackathon.
 4.Strategic Value
 Competitive Insights: Produce 1 report on competitor analysis and market trends.
 
-
 IV. Event Design
 1.Time and Venue
 The 11th Shanghai Global Blockchain Week begins on October 23, 2025, at the Grand Ballroom, 1F, Hyatt on the Bund, 199 Huangpu Road, Hongkou District, Shanghai.
@@ -70,39 +61,24 @@ Scan QR code to join QQ group and follow X platform, then post about Qubic’s p
 5.Side Event
 We will host a high-end closed-door side event under the theme "uPoW Leads: Driving the AI Revolution". The event will precisely invite 10 venture capitalists, AI enterprise decision-makers, and community leaders. By presenting Aigarth and Qubic's tangible achievements and data, we will thoroughly demonstrate how uPoW technology outperforms the traditional AI market, aiming to foster ecosystem collaboration in AI.
 
-
 V. Execution Team
 Zhangxingyuan (Chinese Community Ambassador Lead)
 MUYOU (Chinese Community Ambassador)
 MINI (Chinese Community Ambassador)
 
-
 VI. Budget Plan
 
-​​Category
-Details​​
-​​Amount (USD)
-Shanghai Blockchain Week
-Booth, tickets, travel, prizes, materials, design fees
-20,000
-Side Event
-Venue rental, catering, printed materials
-7,200
-Media & Promotion
-
-
-2,900
-Operational Expenses
-
-
-2,800
-Total​​
-
-
-​​32,900
+Category
+Details
+Amount (USD)
+Shanghai Blockchain Week	Booth, tickets, travel, prizes, materials, design fees	20,000
+Side Event	Venue rental, catering, printed materials	7,200
+Media & Promotion		2,900
+Operational Expenses		2,800
+Total
+	32,900
 
 All remaining funds will be returned to the CCF. This budget only covers flights and hotel expenses for local ambassador team members. Travel expenses for other ecosystem teams and operational strategy team participants are not included in this proposal and will be covered by the Ecosystem Services and Core Services departments to avoid increasing this budget.
-
 
 
 提案：
@@ -114,13 +90,12 @@ All remaining funds will be returned to the CCF. This budget only covers flights
 选项1：是，批准164亿QUBIC的预算 @价格（2000美元/十亿）
 
 一、上海全球区块链周背景
-​​1.行业地位：
-中国区块链行业​​历史最悠久、规格最高​​的国际盛会,被彭博社、Coindesk等全球顶级媒体称为 ​​“亚洲区块链达沃斯”​​ ，单届吸引​​50+国家​​参会者。
+1.行业地位：
+中国区块链行业历史最悠久、规格最高的国际盛会,被彭博社、Coindesk等全球顶级媒体称为 “亚洲区块链达沃斯” ，单届吸引50+国家参会者。
 2.嘉宾阵容：
-累计出席的全球TOP50项目创始人超30位包括以太坊联合创始人Vitalik Buterin、Solana联合创始人 ​​Anatoly Yakovenko​​、Aptos联合创始人 ​​Avery Ching​​​​，覆盖​​90%主流公链​​及​​80% DeFi协议​​，学术权威占比40%​​：包括斯坦福、耶鲁、MIT等顶尖高校教授。
+累计出席的全球TOP50项目创始人超30位包括以太坊联合创始人Vitalik Buterin、Solana联合创始人 Anatoly Yakovenko、Aptos联合创始人 Avery Ching，覆盖90%主流公链及80% DeFi协议，学术权威占比40%：包括斯坦福、耶鲁、MIT等顶尖高校教授。
 
-
-二、Qubic参展价值​​
+二、Qubic参展价值
 1.深度触达中国开发者与市场，建立技术共识
 技术布道核心阵地： 在上海亮相，是向中国庞大的开发者社区展示Qubic技术优势（如低费用、高TPS、预言机网络）的最佳舞台，能够直接吸引对先进Layer 1协议和去中心化算力感兴趣的核心开发者与生态建设者。
 提升本土知名度： 通过与本土知名项目同台竞技、举办技术工作坊，快速建立Qubic在中国市场的技术品牌形象和公信力，为后续生态扩张奠定用户基础。
@@ -153,10 +128,10 @@ All remaining funds will be returned to the CCF. This budget only covers flights
 2. 展台设置
 通过设立一个1.5m*1.8m的展台开展活动。
 3.展示内容
-分布式AI计算创造​​Aigarth AGI，打造共同创建AI计算的美好愿景。Aigarth 是人工智能成长的“花园”的隐喻，构建通用人工智能的组件，逐步成型，创造培育环境。​​
-​​1550万TPS​​：全球最快区块链，为实时AI交互提供底层支持。
+分布式AI计算创造Aigarth AGI，打造共同创建AI计算的美好愿景。Aigarth 是人工智能成长的“花园”的隐喻，构建通用人工智能的组件，逐步成型，创造培育环境。
+1550万TPS：全球最快区块链，为实时AI交互提供底层支持。
 4.活动
-​​扫码加入QQ群和关注X平台并发布一条关于Qubic参展动态即可获得1次抽奖机会，中奖者会得到Qubic定制周边礼品。
+扫码加入QQ群和关注X平台并发布一条关于Qubic参展动态即可获得1次抽奖机会，中奖者会得到Qubic定制周边礼品。
 5. 边会
 我们将举办一场以“uPoW主导：推动人工智能革命”为主题的高端闭门Side Event。活动将精准邀请10位VC、AI企业决策者与社区领袖，通过介绍AIgarth及Qubic实际成果和数据，深度展示uPoW技术如何碾压传统AI市场，旨在助推AI的生态合作。
 
@@ -166,28 +141,26 @@ MUYOU（中文社区大使）
 MINI（中文社区大使）
 
  六、预算规划
-​​类别​​
-​​明细​​
-​​金额​​
-上海区块链周
-展位、门票、差旅，奖品、物料、设计费
-¥140,000
-边会
-宴会厅租赁/精品餐饮/印刷物料
-¥50,000
-媒体与推广
+类别
+明细
+金额
 
+上海区块链周	展位、门票、差旅，奖品、物料、设计费	¥140,000
+边会	宴会厅租赁/精品餐饮/印刷物料	¥50,000
+媒体与推广		¥20,000
+运营费用		¥19,000
+总计
+	¥229，000
 
-¥20,000
-运营费用
-
-
-¥19,000
-​​总计​​
-
-
-​​¥229，000
 所有剩余款项将返还至CCF。预算仅包含本地大使团队成员的航班及酒店费用，其他生态团队及运营战略团队参会成员差旅费用不包含在本方案预算内，生态系统服务与核心服务部门将承担其成员的差旅开支，以避免增加本方案预算。
+
+ 
+
+
+
+
+
+
 
 
  
