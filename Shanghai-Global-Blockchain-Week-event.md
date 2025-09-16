@@ -108,6 +108,7 @@ A 1.5m x 1.8m booth will be set up for activities.
 3.Display Content
 -
 Distributed AI computing creates Aigarth AGI, envisioning a collaborative future for AI computing. Aigarth is a metaphor for a "garden" where artificial intelligence grows, constructing components of AGI that gradually take shape and foster a nurturing environment.
+
 15.5 million TPS: The world’s fastest blockchain, providing underlying support for real-time AI interactions.
 
 4.Activities
@@ -252,6 +253,7 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 3.展示内容
 -
 分布式AI计算创造Aigarth AGI，打造共同创建AI计算的美好愿景。Aigarth 是人工智能成长的“花园”的隐喻，构建通用人工智能的组件，逐步成型，创造培育环境。
+
 1550万TPS：全球最快区块链，为实时AI交互提供底层支持。
 
 4.活动
