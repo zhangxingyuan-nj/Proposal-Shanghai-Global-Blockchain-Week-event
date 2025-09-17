@@ -1,14 +1,14 @@
-
-Proposal:
+CCF proposal Shanghai Global Blockchain Week
 =
+Proposal:
+-
 Request to approve the budget for the Shanghai Global Blockchain Week event.
 
 Wallet: 
-=
 KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 
-Options:
-=
+### Options:
+
 Option 0: No, I don’t want
 
 Option 1: Yes, approved the budget of 16.4 bln QUBIC @price ($2000/Bln)
@@ -155,11 +155,9 @@ VI. Budget Plan
 请求批准上海全球区块链周活动的预算
 
 钱包地址：
-=
 KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 
-选项：
-=
+### 选项：
 选项0：否，我不同意
 
 选项1：是，批准164亿QUBIC的预算 @价格（2000美元/十亿）
