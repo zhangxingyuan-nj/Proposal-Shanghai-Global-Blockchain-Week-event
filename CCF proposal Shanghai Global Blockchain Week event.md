@@ -11,7 +11,7 @@ KMGCJOYUBVLRJCQYYFNMJBZUAYSCRQZXZEFJTZDNGAQLBJOSCGGXSHGHKEYM
 
 Option 0: No, I don’t want
 
-Option 1: Yes, approved the budget of 16.4 bln QUBIC @price ($2000/Bln)
+Option 1: Yes, approved the budget of 18.3 bln QUBIC @price ($1800/Bln)
 
 <br>
 
